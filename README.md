@@ -118,7 +118,7 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 ## License
 
-This Snake Game in Processing is open-source and available under the [MIT License](LICENSE). You can use, modify, and distribute it freely.
+This Snake Game in Processing is open-source and available under the [MIT License](https://github.com/IvanPedroza/Snake/blob/main/LICENSE.md). You can use, modify, and distribute it freely.
 
 ## Acknowledgments
 

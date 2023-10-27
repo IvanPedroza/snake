@@ -15,7 +15,7 @@ class Snake:
         HUMAN_COLOR = (0.0, 0.0, 1.0)
         AI_COLOR = (1.0, 0.0, 0.0)
         MID_VERT = gc.h//2
-        SNAKE_LENGTH = 5
+        SNAKE_LENGTH = 7
         LEFT_START = SNAKE_LENGTH + 1
         RIGHT_START = gc.w - (SNAKE_LENGTH + 1)
         GROWTH_RATE = 3
